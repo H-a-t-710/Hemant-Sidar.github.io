@@ -3,7 +3,7 @@ Hemant Singh Sidar personal page
 Hemant Singh Sidar
 ------------------
 
-![ERROR](C:\Users\DELL\Downloads\download.jfif)
+![ERROR](download.jfif)
 
 I am hemant
 
