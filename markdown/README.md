@@ -3,7 +3,7 @@ Hemant Singh Sidar personal page
 Hemant Singh Sidar
 ------------------
 
-![ERROR]("Hemant.jpeg")
+![ERROR](markdown/Hemant.jpeg)
 
 I am Hemant
 
