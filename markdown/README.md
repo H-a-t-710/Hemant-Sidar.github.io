@@ -3,7 +3,7 @@ Hemant Singh Sidar personal page
 Hemant Singh Sidar
 ------------------
 
-![ERROR]([markdown/Hemant.jpeg](https://github.com/account))
+![ERROR](markdown/Hemant.jpeg)](https://github.com/account)
 
 I am Hemant
 
